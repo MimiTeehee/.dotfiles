@@ -1,0 +1,101 @@
+[2m2025-08-15T00:21:51.547414Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-08-15T05:37:24.229125Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.focused_window.border: Expected color to be either a 6 or 8 character long hex value. at line 54 column 7
+[2m2025-08-27T14:58:21.015034Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-09-13T10:14:51.822929Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-09-16T08:37:52.073399Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-09-17T05:44:29.139403Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-09-19T17:11:55.524143Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-09-19T17:12:03.058986Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-19T17:12:03.081118Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-19T17:12:03.081342Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-19T17:12:03.082469Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-19T18:12:03.310143Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-09-20T08:22:40.553413Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-09-20T08:22:48.911310Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-20T08:22:48.911410Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-20T08:22:48.912094Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-20T08:22:48.912592Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-20T08:22:48.912794Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-20T08:22:48.912926Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-20T08:22:48.913582Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-20T08:22:48.914371Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-20T11:49:48.925491Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-09-21T18:48:07.003887Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-09-30T22:47:04.674003Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No common ancestor between containers.
+[2m2025-09-30T22:47:06.736175Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:07.372556Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:07.840352Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:08.221264Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:08.497634Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:08.740034Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:08.928771Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:09.112624Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:12.718237Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:13.204636Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:13.432798Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:13.615535Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T22:47:29.159950Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Window has no workspace.
+[2m2025-09-30T23:44:55.472269Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-09-30T23:44:57.681110Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-10-01T00:13:30.525011Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m window_effects.focused_window.border: Color must start with a `#`. at line 54 column 7
+[2m2025-10-01T02:34:47.678014Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-10-01T02:34:57.421240Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-10-13T01:31:10.104646Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-10-13T01:46:02.896225Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-10-13T14:56:19.628565Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-10-27T00:41:47.900517Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-10-27T00:42:10.370012Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No Workspace
+[2m2025-10-27T00:42:11.669519Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No Workspace
+[2m2025-11-06T14:27:09.032113Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key, while parsing a block mapping
+[2m2025-11-07T18:31:23.784092Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-11-07T19:19:46.402905Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-11-07T19:22:33.228176Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-11-07T19:22:33.228793Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-11-07T19:22:33.228889Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-11-07T19:22:33.228970Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-11-07T19:22:33.229177Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-11-07T19:22:33.229359Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-11-07T20:15:22.848399Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-11-07T20:46:08.465339Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No displayed workspace.
+[2m2025-11-07T20:46:13.160907Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-11-07T20:46:13.172403Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to send response: channel closed
+[2m2025-11-16T01:04:18.653186Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Another instance of the application is already running.
+[2m2025-11-16T01:05:12.499812Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-11-16T01:05:30.779254Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-11-16T01:05:38.249738Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-11-16T01:05:48.990179Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-11-16T01:16:43.793294Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m did not find expected key at line 7 column 2, while parsing a block mapping
+[2m2025-11-16T01:18:22.775419Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-11-16T01:26:07.338985Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-11-16T01:26:10.724950Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-11-16T01:26:33.568780Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+[2m2025-11-16T01:33:47.317256Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m duplicate field `animations`
+[2m2025-11-17T03:38:47.498540Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m No common ancestor between containers.
+[2m2025-11-19T11:11:42.623361Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to start watcher process.
+
+Caused by:
+    The system cannot find the file specified. (os error 2)

@@ -1,0 +1,35 @@
+{
+  "optionsVersion": 2,
+  "seenPaths": {
+    "F:\\MultiMC\\instances\\Tankred\\.minecraft": 1738822460082,
+    "F:\\MultiMC\\instances\\1.18.2\\.minecraft": 1741177983689,
+    "F:\\MultiMC\\instances\\SEEDQUEUE\\.minecraft": 1743074995553
+  },
+  "borderlessPosition": null,
+  "autoBorderless": false,
+  "hotkeys": [],
+  "disabledDefaultScripts": [
+    "Coop Mode"
+  ],
+  "checkForUpdates": true,
+  "usePreReleases": false,
+  "lastCheckedVersion": "1.1.4",
+  "minimizeToTray": false,
+  "lastPosition": [
+    495,
+    300
+  ],
+  "lastSize": [
+    1056,
+    641
+  ],
+  "projectorEnabled": false,
+  "projectorPosition": [
+    0,
+    324,
+    768,
+    432
+  ],
+  "projectorWindowPattern": "*- Jingle Mag",
+  "minimizeProjector": false
+}

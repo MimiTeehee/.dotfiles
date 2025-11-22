@@ -1,0 +1,12 @@
+{
+  "Resizing": {
+    "eye_measuring": "384x16384",
+    "planar_abuse": "1920x300",
+    "thin_bt": "280x700",
+    "change_cursor_speed": "true",
+    "permanent_normal_cursor_speed": "3"
+  },
+  "Coop Mode": {
+    "cheats_enabled": "false"
+  }
+}

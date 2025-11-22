@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "autoPos": false,
+  "x": 0,
+  "y": 324,
+  "w": 768,
+  "h": 432,
+  "fpsLimit": 60
+}
